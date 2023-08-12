@@ -2,7 +2,7 @@
 
 A simple tip calculator built using HTML, CSS, and JavaScript.
 
-![Screenshot](screenshots/screenshot.png)
+![Screenshot](screenshots/Screenshot_1.png)
 
 ## Demo
 
